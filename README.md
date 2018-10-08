@@ -14,9 +14,9 @@ __User Input__
 __Output__
 
 1. A Table Containing:
-⋅⋅* Process NUmber
-⋅⋅* Arrival time
-⋅⋅* CPU Burst time
-⋅⋅* Turnaround time 
+* Process NUmber
+* Arrival time
+* CPU Burst time
+* Turnaround time 
 
 2. Average Turnaround Time for the System
