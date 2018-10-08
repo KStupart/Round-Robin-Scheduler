@@ -18,7 +18,5 @@ __Output__
 ⋅⋅* Arrival time
 ⋅⋅* CPU Burst time
 ⋅⋅* Turnaround time 
-Process | Arrival time | CPU Burst time | Turnaround time
---- | --- | --- | ---
 
 2. Average Turnaround Time for the System
