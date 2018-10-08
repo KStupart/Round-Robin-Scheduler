@@ -1,4 +1,4 @@
-# RoundRobinScheduler
+# Round Robin Scheduler
 __Inspiration for Program__
 
 In my Operating Systems class, we had to create a program to calculate the average turnaround time for a Round Robin algorithm. I thought this was GitHub worthy so I'm going to post my program.
