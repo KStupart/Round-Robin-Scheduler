@@ -14,7 +14,7 @@ __User Input__
 __Output__
 
 1. A Table Containing:
-* Process NUmber
+* Process Number
 * Arrival time
 * CPU Burst time
 * Turnaround time 
