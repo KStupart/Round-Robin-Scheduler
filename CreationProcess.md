@@ -2,13 +2,13 @@
 This file provides an explanation of my thought process as I created this application
 
 # Thoughts
-__User Input__
+### User Input
 1. Number of Processes in System
 2. Arrival Time for Each Process
 3. CPU Burst for Each Process
 4. Quantum Time
 
-__Output__
+### Output
 1. A Table Containing:
 * Process Number
 * Arrival time
