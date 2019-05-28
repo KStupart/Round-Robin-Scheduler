@@ -10,10 +10,10 @@ This file provides an explanation of my thought process as I created this applic
 
 ### Output
 1. A Table Containing:
-* Process Number
-* Arrival time
-* CPU Burst time
-* Turnaround time 
+   * Process Number
+   * Arrival time
+   * CPU Burst time
+   * Turnaround time 
 
 2. Average Turnaround Time for the System
 
