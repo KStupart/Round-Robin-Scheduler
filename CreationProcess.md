@@ -17,5 +17,5 @@ __Output__
 
 2. Average Turnaround Time for the System
 
-### Future Work
+# Future Work
 Implement a GUI by using the Java Swing library
